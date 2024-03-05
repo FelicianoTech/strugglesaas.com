@@ -1,0 +1,12 @@
+/*
+ * Colors customizable by the Hugo config file are located here rather than in
+ * the colors import due to Hugo limitations.
+ */
+$accent-color: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}#D27D2D{{ end }};
+
+$logo-blue: $accent-color;
+@import "colors";
+@import "structure";
+@import "fonts";
+@import "elements";
+@import "classes";

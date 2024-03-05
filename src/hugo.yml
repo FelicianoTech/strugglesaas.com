@@ -1,0 +1,46 @@
+baseurl: "https://StruggleSaaS.com/"
+title: "Struggle Saas"
+languageCode: "en-us"
+theme: "ftech"
+
+googleAnalytics: "G-RE1PB0KWEJ"
+disqusShortname: "struggle-saas"
+
+enableEmoji: true
+
+params:
+  description: "My journey building Melitix Events and the struggle leading up to it."
+  accentColor: "#047769"
+  subNav: "disable"
+
+blackfriday:
+  hrefTargetBlank: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: 'nord'
+    lineNos: true
+    lineNumbersInTable: true
+
+menu:
+  main:
+  - name: "Posts"
+    pageRef: "/"
+    weight: -1
+  - name: "Feliciano.Tech"
+    url: "https://www.feliciano.tech"
+    weight: 10
+    post: '<i class="fa-solid fa-up-right-from-square"></i>'
+  social:
+  - name: "mastodon"
+    url: "https://nanobyte.cafe/@FelicianoTech"
+    weight: 10
+  - name: "threads"
+    url: "https://www.threads.net/@felicianotech"
+    weight: 20
+  - name: "linkedin"
+    url: "https://www.linkedin.com/in/ricardofeliciano"
+    weight: 30

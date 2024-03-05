@@ -1,0 +1,76 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: static-websites
+  name: struggle-saas
+  labels:
+    app: struggle-saas
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: struggle-saas
+  template:
+    metadata:
+      labels:
+        app: struggle-saas
+    spec:
+      containers:
+      - name: website
+        image: "ghcr.io/felicianotech/strugglesaas.com:latest"
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  namespace: static-websites
+  name: struggle-saas
+  labels:
+    app: struggle-saas
+spec:
+  type: ClusterIP
+  selector:
+    app: struggle-saas
+  ports:
+    - protocol: TCP
+      name: http
+      port: 80
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  namespace: static-websites
+  name: struggle-saas
+  labels:
+    app: struggle-saas
+  annotations:
+    cert-manager.io/cluster-issuer: "letsencrypt-production"
+spec:
+  ingressClassName: nginx
+  tls:
+  - hosts:
+    - strugglesaas.com
+    - www.strugglesaas.com
+    secretName: struggle-saas-tls
+  rules:
+  - host: strugglesaas.com
+    http:
+      paths:
+      - pathType: Prefix
+        path: "/"
+        backend:
+          service:
+            name: struggle-saas
+            port:
+              number: 80
+  - host: www.strugglesaas.com
+    http:
+      paths:
+      - pathType: Prefix
+        path: "/"
+        backend:
+          service:
+            name: struggle-saas
+            port:
+              number: 80
