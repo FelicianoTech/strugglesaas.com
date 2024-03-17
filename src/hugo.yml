@@ -10,7 +10,7 @@ enableEmoji: true
 
 params:
   description: "My journey building Melitix Events and the struggle leading up to it."
-  accentColor: "#047769"
+  accentColor: "#53d769"
   subNav: "disable"
 
 blackfriday:
