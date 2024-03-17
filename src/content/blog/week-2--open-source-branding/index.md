@@ -129,7 +129,7 @@ The African penguin previously mentioned happens to live in South Africa and is 
 
 Putting it all together, here's the logo as it is today:
 
-
+{{< figure src="/assets/img/eventhunt-logo-full.jpg" width="500px" class="aligncenter" >}}
 
 What do you think?
 Please comment below or contact me on social media if you have any feedback on the logo.
