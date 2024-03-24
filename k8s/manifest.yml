@@ -46,6 +46,8 @@ metadata:
     app: struggle-saas
   annotations:
     cert-manager.io/cluster-issuer: "letsencrypt-production"
+    nginx.ingress.kubernetes.io/from-to-www-redirect: "true"
+    nginx.ingress.kubernetes.io/preserve-trailing-slash: "true"
 spec:
   ingressClassName: nginx
   tls:
@@ -55,16 +57,6 @@ spec:
     secretName: struggle-saas-tls
   rules:
   - host: strugglesaas.com
-    http:
-      paths:
-      - pathType: Prefix
-        path: "/"
-        backend:
-          service:
-            name: struggle-saas
-            port:
-              number: 80
-  - host: www.strugglesaas.com
     http:
       paths:
       - pathType: Prefix
