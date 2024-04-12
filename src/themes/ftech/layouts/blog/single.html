@@ -15,9 +15,9 @@
 	</footer>
 </article>
 {{ if hugo.IsProduction }}
-	{{ template "_internal/disqus.html" . }}
+	{{ partial "discourse-embed.html" . }}
 {{ else }}
-<p>In production mode, Disqus comments will appear here.</p>
+<p>In production mode, Discourse comments will appear here.</p>
 {{ end }}
 </main>
 {{ partial "share-buttons" . }}
