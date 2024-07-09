@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Open-Source Branding"
+title: "Part 2: Open-Source Branding"
 author: FelicianoTech
 date: "2024-03-17T15:00:00-04:00"
 categories:

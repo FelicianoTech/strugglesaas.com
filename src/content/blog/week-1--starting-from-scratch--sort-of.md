@@ -1,5 +1,5 @@
 ---
-title: "Week 1: Starting From Scratch... Sort Of"
+title: "Part 1: Starting From Scratch... Sort Of"
 author: FelicianoTech
 date: "2024-03-10T18:30:00-04:00"
 categories:

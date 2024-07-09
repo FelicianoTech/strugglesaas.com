@@ -1,5 +1,5 @@
 ---
-title: "Week 6: Building the SEO Content Engine"
+title: "Part 6: Building the SEO Content Engine"
 author: FelicianoTech
 date: "2024-04-14T17:45:00-04:00"
 description: "Last week sucked. I forced myself to get this post out to keep my writing streak."
