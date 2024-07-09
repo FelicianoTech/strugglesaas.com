@@ -18,14 +18,3 @@ The intention is to give me more material to write about on particularly slow we
 
 **General SaaS Musings**—The Melitix Events journals will be posted in their own category on the blog every two weeks.
 Outside of this schedule, I plan to post occasional thoughts on SaaS concepts, examples, and stories.
-
-## Post Comments
-
-On most of my blogs, I use Disqus to power the comment system.
-I got an email from them saying that free plans (which I use) will start showing ads.
-Sure enough, on [www.Feliciano.Tech](http://www.Feliciano.Tech), my comments section has begun showing ads, and I'm not okay with that.
-Before Struggle SaaS's comment section also started to show ads, I decided to swap out the system.
-
-My Discourse forum, [FTech Discuss](https://discuss.feliciano.tech), will now power comments on this website.
-Please create an account to make comments.
-The same account/forum will soon be used on my personal website as well as the discussion platform for many of my open-source projects.
