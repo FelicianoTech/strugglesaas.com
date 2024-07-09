@@ -1,5 +1,5 @@
 ---
-title: "Week 3: Two Steps Forward, One Step Back"
+title: "Part 3: Two Steps Forward, One Step Back"
 author: FelicianoTech
 date: "2024-03-24T15:30:00-04:00"
 categories:

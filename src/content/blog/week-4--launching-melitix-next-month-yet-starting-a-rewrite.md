@@ -1,5 +1,5 @@
 ---
-title: "Week 4: Launching Melitix Next Month Yet Starting a Rewrite"
+title: "Part 4: Launching Melitix Next Month Yet Starting a Rewrite"
 author: FelicianoTech
 date: "2024-03-31T18:00:00-04:00"
 categories:
