@@ -17,12 +17,12 @@ On top of that, I'm still in the middle of the code rewrite I [discussed last we
 As you can imagine, I haven't gotten much done this past week, so there is little to discuss.
 While I was roaring west on Interstate 10, my mind was on the EventHunt launch later this month and how it would feel to have the software public.
 I then started thinking about the first time I published software for public use and what that experience was like.
-It all started with Sony's PlayStation Portal, a.k.a. PSP.
+It all started with Sony's PlayStation Portable, a.k.a. PSP.
 
 {{< figure src="psp-1000.jpg" width="400px" class="aligncenter" >}}
 
 
-## The PlayStation Portal changed everything for me
+## The PlayStation Portable changed everything for me
 
 I don't remember exactly when I got my first PSP, but I remember it was a game changer.
 Coming from the GameBoy Advance, the PSP was a state-of-the-art beast.
