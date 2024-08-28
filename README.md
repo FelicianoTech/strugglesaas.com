@@ -10,7 +10,7 @@ This is the public repository for <https://StruggleSaaS.com>, a static website g
 You can run this website locally by cloning this repo and serving it with Hugo:
 
 ```
-git clone https://github.com/felicianotech/strugglesaas.com.git
+git clone --recurse-submodules https://github.com/felicianotech/strugglesaas.com.git
 cd strugglesaas.com
 hugo -s src serve
 ```

@@ -1,7 +1,7 @@
 baseurl: "https://StruggleSaaS.com/"
 title: "Struggle Saas"
 languageCode: "en-us"
-theme: "ftech"
+theme: "ftech-2019"
 
 googleAnalytics: "G-RE1PB0KWEJ"
 disqusShortname: "struggle-saas"
