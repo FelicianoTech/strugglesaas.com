@@ -83,7 +83,7 @@ As a kid, I already knew I liked "business" for a few years before this, but now
 
 P.S. Several years later, I worked in customer support at one of my favorite Internet companies, Linode.
 I was telling this story to a group of my co-workers one evening (on night shift), and it turns out that one of them had downloaded Simon Remix and played it.
-What are the freakin' chances? :slight-smile:
+What are the freakin' chances? :slightly_smiling_face:
 
 <br />
 
