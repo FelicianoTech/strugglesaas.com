@@ -2,6 +2,7 @@
 title: "{{ replace .File.ContentBaseName `-` ` ` | title }}"
 author: FelicianoTech
 date: "{{ .Date }}"
+description: ""
 categories:
   - ""
 tags:
