@@ -31,14 +31,14 @@ Pulling assets into one big hub or dashboard is only one level of what can be do
 An abstraction layer over registrars and DNS providers can enable interesting features.
 
 ### Example 1
-For example, a comapany domain name, PurpleBrothers.com (made up), was imported into Revidian Cloud.
-We have three services set up with it: www.PurpleBrothers.com, the marketing site, email.PurpleBrothers.com, the email gateway, and store.PurpleBrothers.com, the e-commerce store.
+For example, a company domain name, `PurpleBrothers.com` (made up), was imported into Revidian Cloud.
+We have three services set up with it: `www.PurpleBrothers.com`, the marketing site, `email.PurpleBrothers.com`, the email gateway, and `store.PurpleBrothers.com`, the e-commerce store.
 In an effort to sound more professional, the company wants to rebrand.
-They bought PurpleIndustries.com as part of their new name.
+They bought `PurpleIndustries.com` as part of their new name.
 They imported that domain name into Revidian Cloud as well.
 What could a future Revidian Cloud offer?
 
-I envision a scenario where they would set up PurpleIndustries.com as an alias domain to PurpleBrothers.com.
+I envision a scenario where they would set up `PurpleIndustries.com` as an alias domain to `PurpleBrothers.com`.
 This instructs Revidian Cloud to mirror the DNS entries for both domain names so that they point to the same place.
 Has the IP address for the marketing site changed?
 We change it for one of the domains and the other will change as well, keeping them in sync.
