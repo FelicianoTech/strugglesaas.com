@@ -67,5 +67,7 @@ So, I decided to [make an open-source Flutter game over the weekend](https://www
 I'll work on this game until Monday and then get back to trying to track down people Melitix might be able to help.
 Wish me luck.
 
+<br />
+
 Until the next one,  
 Ricardo (FelicianoTech)

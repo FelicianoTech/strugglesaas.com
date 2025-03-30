@@ -86,6 +86,7 @@ Neither will payment plans.
 It will be a free MVP in order to get others to kick the tires and get early feedback on the UX and feature set as I begin to add features.
 Reach out to me or sign up at [https://cloud.revidian.com](https://cloud.revidian.com) in order to be notified when the MVP becomes available in April.
 
+<br />
 
 Until the next one,  
 Ricardo (FelicianoTech)
