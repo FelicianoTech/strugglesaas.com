@@ -21,7 +21,7 @@ My imperfect elevator pitch: "A management hub for all of your Internet assetsâ€
 Considering that what I'm trying to build is still in flux, let's break this elevator pitch down a bit.
 
 I am the classic developer stereotype that buys a lot of domain names for projects that likely never get built.
-Due to bargain hunting and top-level domain (TLD) availability, I have a ton of domains with NameCheap but some of them are with Cloudflare, PorkBun, etc.
+Due to bargain hunting and top-level domain (TLD) availability, I have a ton of domains with Namecheap but some of them are with Cloudflare, Porkbun, etc.
 Revidian Cloud will allow you to view all these domains, regardless of registrar, in one location.
 See which domains are in use, have external DNS, compare expiration dates, etc., all in one app.
 This is the simple, high-level vision.
@@ -87,6 +87,7 @@ I'm looking for two types of people to try out Revidian Cloud:
 
 Please sign up at [Cloud.Revidian.com](https://cloud.revidian.com/) and I will reach out to you swiftly. Alternatively, you can contact me directly via my contact form or social media. You can find both on my personal website, [Feliciano.Tech](https://www.feliciano.tech/).
 
+<br />
 
 Until the next one,  
 Ricardo (FelicianoTech)

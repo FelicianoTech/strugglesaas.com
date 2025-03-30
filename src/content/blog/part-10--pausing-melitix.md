@@ -79,6 +79,7 @@ That's coming soon though.
 In my next post I will cover starting the Revidian Cloud project and go over more of my ideas and intentions.
 Stay tuned.
 
+<br />
 
 Until the next one,  
 Ricardo (FelicianoTech)
