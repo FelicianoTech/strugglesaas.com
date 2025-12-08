@@ -29,12 +29,18 @@ markup:
 
 menu:
   main:
-  - name: "Posts"
-    pageRef: "/"
+  - name: "Journal"
+    pageRef: "/journal/"
     weight: -1
+  - name: "Diary"
+    pageRef: "/diary/"
+    weight: 5
+  - name: "Older Posts"
+    pageRef: "/"
+    weight: 10
   - name: "Feliciano.Tech"
     url: "https://www.feliciano.tech"
-    weight: 10
+    weight: 15
     post: '<i class="fa-solid fa-up-right-from-square"></i>'
   social:
   - name: "bluesky"
